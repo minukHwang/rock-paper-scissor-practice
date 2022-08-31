@@ -1,1 +1,1 @@
-https://magical-alpaca-add8b8.netlify.app/
+https://minuk-rock-paper-scissor.netlify.app/
